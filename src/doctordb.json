@@ -1,0 +1,226 @@
+{
+    "jopDoctor": [{
+            "id": 1,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "مجدي يعقوب",
+            "category": "دكتور قلب",
+            "description": "هو من اكبر دكاترو القلب في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض القلب",
+            "price": 300
+        },
+        {
+            "id": 2,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "مراون اشرف",
+            "category": "دكتور اسنان",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 250
+        },
+        {
+            "id": 3,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "محمد اشرف",
+            "category": "دكتور تخسبس ونحافة",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 300
+        },
+        {
+            "id": 4,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "ابو اسماعيل",
+            "category": "دكتور تجميل",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 200
+        },
+        {
+            "id": 5,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "ابراهيم حسام",
+            "category": "دكتور جلدية",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 400
+        },
+        {
+            "id": 6,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "شريف اباظة",
+            "category": "دكتور جراحة عامه",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 350
+        },
+        {
+            "id": 7,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "ابو العيون",
+            "category": "دكتور جلدية",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 280
+        },
+        {
+            "id": 8,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "حمزة حمزة",
+            "category": "دكتور مخ واعصاب",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 500
+        },
+        {
+            "id": 9,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "حازم ابو عموه",
+            "category": "دكتور عيون",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 450
+        },
+        {
+            "id": 10,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "احمد فهيم",
+            "category": "دكتور عظام",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 650
+        },
+        {
+            "id": 11,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "اشرف",
+            "category": "دكتور قلب",
+            "description": "هو من اكبر دكاترو القلب في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض القلب",
+            "price": 205
+        },
+        {
+            "id": 12,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "رقية",
+            "category": "دكتور سمانة",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 245
+        },
+        {
+            "id": 13,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "فهد",
+            "category": "دكتور جلدية",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 245
+        },
+        {
+            "id": 14,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "محمد توبة",
+            "category": "دكتور مسلاك بولية",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 256
+        },
+        {
+            "id": 15,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "محمد ابراهيم",
+            "category": "دكتور تجميل",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 245
+        },
+        {
+            "id": 16,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "مراون اسماعيل",
+            "category": "دكتور اسنان",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 740
+        },
+        {
+            "id": 17,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "اسماعيل عبدربه",
+            "category": "دكتور اسنان",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 244
+        },
+        {
+            "id": 18,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "حمدي الاستاذ",
+            "category": "دكتور سمانه",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 277
+        },
+        {
+            "id": 19,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "حسن ايو بكر",
+            "category": "دكتور نساء وتوليد",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 255
+        },
+        {
+            "id": 20,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "ابراهيم حسن",
+            "category": "دكتور مخ واعصاب",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 120
+        },
+        {
+            "id": 21,
+            "img": "https://i.postimg.cc/Qd02TQsv/doctor.png",
+            "nameDoctor": "يزن مروان ",
+            "category": "دكتور تجميل",
+            "description": "هو من اكبر دكاترو الاسنان في العالم تتوج باكثير من جائز زبشهد له انها اكبر دكتور متخصيص في امراض الاسنان",
+            "price": 200
+        }
+    ],
+    "medical": [{
+            "id": 1,
+            "nameMedicalSpecialties": "اسنان",
+            "img": "https://i.postimg.cc/PqCrZrtD/06fee8aa335a157d70274851d1b5d4ba-removebg-preview.png",
+            "description": "يهتم تخصص طب وجراحة الفم والأسنان بتشخيص وعلاج المشكلات التى تؤثر على صحة الأسنان واللثة، ومن أهم ما يميز طب الأسنان فى عيادات داوى هو وجود عدد كبير من الأطباء المتخصصين فى جميع التخصصات الفرعية لطب الأسنان بما يضمن لعملاءنا الحصول على أعلى مستويات الخدمة مهما كان الإجراء الذى يحتاجون اليه"
+        },
+        {
+            "id": 2,
+            "nameMedicalSpecialties": "عظام",
+            "img": "https://i.postimg.cc/9QGB2C3G/images-removebg-preview.png",
+            "description": "يهتم تخصص طب وجراحة العظام بتشخيص وعلاج مشكلات العظام والمفاصل والجهاز الحركى بشكل عام سواء تلك التى تستدعى تدخل جراحى أوغيرها"
+        },
+        {
+            "id": 3,
+            "nameMedicalSpecialties": "نساء و توليد",
+            "img": "https://www.dawiclinics.com/wp-content/uploads/2021/03/services_03.svg",
+            "description": "يهتم تخصص طب النساء والتوليد بتشخيص وعلاج المشكلات الصحية التى تؤثر على الجهاز التناسلى للمرأة بالإضافة الى متابعة الحمل وإجراء عمليات الولادة، وتشخيص وعلاج أسباب تأخر الانجاب لدى السيدات"
+        },
+        {
+            "id": 4,
+            "nameMedicalSpecialties": " جلدية",
+            "img": "https://i.postimg.cc/C1NPg8tT/supplement-pets-thin-line-icon-260nw-2107828067-removebg-preview.png",
+            "description": "يهتم تخصص طب الأمراض الجلدية بتشخيص وعلاج الأمراض التى تؤثر على الشعر والبشرة بالاضافة على الإجراءات التجميلية التى تهدف الى زيادة نضارة البشرة والحفاظ على صحة الشعر وعلاج المشكلات التى يتعرض لها."
+        },
+        {
+            "id": 5,
+            "nameMedicalSpecialties": "رامد",
+            "img": "https://c.neh.tw/thumb/f/720/freesvgorg47009.jpg",
+            "description": "يهتم تخصص الرامد بتشخيص وعلاج الامراض التي تؤثر علي العيوان والحفاظ علي الصحة العامة للعيون والمشكلات التي يتعرض لها"
+        },
+        {
+            "id": 6,
+            "nameMedicalSpecialties": "تجميل",
+            "img": "https://i.postimg.cc/bYDFZZKP/kissclipart-plastic-surgery-icon-botox-icon-beauty-icon-6da3519cdbb48bcd-removebg-preview.png",
+            "description": "يهتم تخصص التجميل بتشخيص وعلاج الامراض التي تؤثر علي الجسم والحفاظ علي نظافة الجسم من اي تشوها"
+        },
+        {
+            "id": 7,
+            "nameMedicalSpecialties": "قلب",
+            "img": "https://cdn4.iconfinder.com/data/icons/hospital-colored-line/512/hospital_medical_health-27-512.png",
+            "description": "يهتم تخصص جراجة القلب علي علاج الامراض التي تؤثر علي القلب مثلا عمليات القلب المفتوح و ما شبه ذلك"
+        },
+        {
+            "id": 8,
+            "nameMedicalSpecialties": "انف وحناجره",
+            "img": "https://assets.website-files.com/60f94aa958d8172aa3a6c9b8/61d5b0862ba3ea3731932cce_drooping.svg",
+            "description": "يهتم تخصص طب وجراحة الأنف والأذن والحنجرة بتشخيص وعلاج الأمراض التى تصيب الأذن والأنف ومجرى الهواء العلوى سواء تلك التى تستدعى تدخل جراحى أو غيرها"
+        },
+        {
+            "id": 9,
+            "nameMedicalSpecialties": "اطفال",
+            "img": "https://i.postimg.cc/Hk7h7fqx/139499280-newborn-on-hand-pediatric-clinic-logo-in-a-linear-style-vector-illustration-white-isolated.png",
+            "description": "يهتم تخصص طب الأطفال بمتابعة نمو وتطور الأطفال ووقايتهم من الأمراض، بالاضافة على تشخيص وعلاج أى مشكلات صحية قد يتعرضون لها"
+        }
+    ]
+}
